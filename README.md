@@ -12,7 +12,7 @@ Made using Django and Amazon S3 storage and originally hosted on Heroku. Impleme
 Team role: Scrum Leader
 
 Main contributions:
-- Led the team through several scrums and directed members on what tasks needed to be prioritized
+- Led the team through several scrums and directed members on what features and bugs needed to be prioritized
 - Reported to professors and TAs on progress made throughout the project
 - Implemented the three different user types
 - Implemented feature for admins to view and resolve reports with an explanation
